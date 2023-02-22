@@ -10,6 +10,8 @@ Assim, o teorema central do limite e as simulações de Monte Carlo trabalham ju
 ## Interface para visualização dos conceitos apresentados
 [Clique para visualização da aplicação Shiny do TCL por Monte Carlo](https://matheussalvess.shinyapps.io/deploy_tcl/)
 
+[Post no Medium](https://medium.com/@matheuss_alvess/o-uso-de-simula%C3%A7%C3%A3o-de-monte-carlo-para-o-teorema-central-do-limite-885a93841ab5)
+
 <p align="center">
   <img src="img/exp_ex.jpg"/>
 </p>
@@ -17,3 +19,5 @@ Assim, o teorema central do limite e as simulações de Monte Carlo trabalham ju
 <p align="center">
   <img src="img/uni_ex.jpg"/>
 </p>
+
+
