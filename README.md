@@ -1,4 +1,4 @@
-# Teorema do Limite Central por simulação de Monte Carlo
+# (PT-BR) Teorema do Limite Central por simulação de Monte Carlo
 
 
 O teorema central do limite é um dos resultados mais importantes e úteis da estatística e da probabilidade. Ele afirma que, independentemente da distribuição de probabilidade subjacente, a média de um grande número de amostras aleatórias tende a se aproximar de uma distribuição normal. Isso é particularmente útil na modelagem de fenômenos naturais e sociais, pois muitos processos complexos podem ser aproximados por uma distribuição normal.
